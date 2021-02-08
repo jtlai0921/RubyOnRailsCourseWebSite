@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 gem 'omniauth-facebook'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'mini_magick'
 gem 'rails_admin'
 gem 'whenever'
